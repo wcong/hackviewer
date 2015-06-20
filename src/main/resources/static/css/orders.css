@@ -1,0 +1,16 @@
+/** common **/
+html {  -ms-text-size-adjust: 100%;  -webkit-text-size-adjust: 100%;  -webkit-user-select: none;  user-select: none;}
+body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+* {  margin: 0;  padding: 0;}
+button {  font-family: inherit;  font-size: 100%;  margin: 0;  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;}
+ul,ol,ul li {  padding-left: 0;  list-style-type: none;}
+ul, ul li{margin:0;padding:0;}
+a {text-decoration: none;}
+img{vertical-align:top;}
+
+/** other **/
+#container{background-color: #F0F0F0;overflow:hidden;padding:3px;}
+.section{margin-top:5px; margin-bottom:10px; font-size:14px;vertical-align:middle;border:2px solid #e9cc90; border-radius:6px; padding:1px 5px;background-color:#FFF;}
+.section .section-item{vertical-align:middle;border:2px solid #e9cc90; border-radius: 0 15px 15px 15px; padding:1px 5px;background-color:#FFF;}
+.service-item span{display:inline-block; padding-left:5px; padding:0px 3px;width:20%;}
+.service-item div{display:inline-block;vertical-align:middle;height:30px;line-height:30px;}
